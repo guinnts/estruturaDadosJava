@@ -1,4 +1,4 @@
-/*package com.gui.estruturadados.vetor.teste;
+package com.gui.estruturadados.vetor.teste;
 
 import com.gui.estruturadados.vetor.vetor;
 
@@ -8,4 +8,4 @@ public class aula2 {
 		
 		
 	}
-}*/
+}
